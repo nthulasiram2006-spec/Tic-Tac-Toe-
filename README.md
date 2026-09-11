@@ -1,10 +1,10 @@
-❌⭕ Tic Tac Toe Game
+# ❌⭕ Tic Tac Toe Game
 
 A classic **Tic Tac Toe** game built using **HTML5**, **CSS3**, and **JavaScript**. Two players take turns marking `X` and `O` on a 3×3 grid, with automatic win detection and game reset functionality.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-📸 Preview
+## 📸 Preview
 
 The project replicates the following sections of the game:
 
@@ -13,19 +13,19 @@ The project replicates the following sections of the game:
 - 🔄 **New Game Button** – Starts a fresh game after a win
 - ♻️ **Reset Game Button** – Resets the board at any time
 
+---
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | 🧰 Technology | 🎯 Purpose |
+|------------|---------|
 | 📄 HTML5 | Page structure and game board layout |
 | 🎨 CSS3 | Styling, Flexbox layout, and responsive design |
 | ⚡ JavaScript | Game logic, turn handling, and win detection |
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 📦 Tic-Tac-Toe/
@@ -35,9 +35,9 @@ The project replicates the following sections of the game:
 └── ⚡ app.js         # JavaScript game logic
 ```
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-✨ Features
+## ✨ Features
 
 - 🎯 Two-player turn-based gameplay (`X` and `O`)
 - 🧠 Automatic win detection using 8 winning patterns
@@ -48,9 +48,9 @@ The project replicates the following sections of the game:
 - 📱 Responsive design using `vmin` units
 - 🎨 Clean and modern UI with soft shadows and rounded corners
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-🎨 Customization
+## 🎨 Customization
 
 You can easily customize:
 
@@ -60,15 +60,15 @@ You can easily customize:
 - 🏆 **Win Messages** – Edit the message text inside `ShowWinner()` in `app.js`
 - 🎮 **Player Symbols** – Change `"X"` and `"O"` to any characters you like
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project is created **for educational and learning purposes only** 📚. It is a simple implementation of the classic Tic Tac Toe game and is not affiliated with any brand or company.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 - 🤖 Add an AI opponent (single-player mode)
 - 📊 Add a scoreboard to track wins
@@ -77,11 +77,11 @@ This project is created **for educational and learning purposes only** 📚. It 
 - 🕹️ Handle draw/tie scenarios with a message
 - 🎨 Use CSS variables for easier theming
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Thulasi Ram N | 
+**Thulasi Ram N** | 
 Front-End Developer | Learner
 
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
